@@ -1,0 +1,23 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "array": "c",
+        "string_view": "c",
+        "initializer_list": "c",
+        "utility": "c",
+        "stdio.h": "c",
+        "cstring": "c",
+        "omp.h": "c",
+        "string": "c",
+        "algorithm": "c",
+        "type_traits": "c",
+        "functional": "cpp",
+        "__locale": "cpp",
+        "cmath": "cpp",
+        "bitset": "cpp",
+        "random": "cpp",
+        "mpi.h": "c",
+        "main.h": "c"
+    },
+    "cmake.configureOnOpen": true
+}

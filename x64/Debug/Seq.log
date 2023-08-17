@@ -1,0 +1,9 @@
+﻿  s.c
+C:\Users\isham\source\repos\Seq\Seq\s.c(148,9): warning C4101: 'j': unreferenced local variable
+C:\Users\isham\source\repos\Seq\Seq\s.c(210,74): warning C4028: formal parameter 3 different from declaration
+C:\Users\isham\source\repos\Seq\Seq\s.c(211,1): warning C4029: declared formal parameter list different from definition
+C:\Users\isham\source\repos\Seq\Seq\s.c(316,55): warning C4133: 'function': incompatible types - from 'objectsFound *' to 'objectsFound *'
+C:\Users\isham\source\repos\Seq\Seq\s.c(317,41): warning C4133: 'function': incompatible types - from 'objectsFound *' to 'objectsFound *'
+C:\Users\isham\source\repos\Seq\Seq\s.c(315,23): warning C4133: 'initializing': incompatible types - from 'objectsFound *' to 'objectsFound *'
+C:\Users\isham\source\repos\Seq\Seq\s.c(301,6): warning C4101: 'size': unreferenced local variable
+  Seq.vcxproj -> C:\Users\isham\source\repos\Seq\x64\Debug\Seq.exe
